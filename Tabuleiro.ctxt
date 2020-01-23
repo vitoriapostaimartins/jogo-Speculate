@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tabuleiro
+comment0.text=\n\ Classe\ para\ o\ objeto\ tabuleiro\ do\ jogo\ Speculate.\ \n\ \n\ @author\ Vitoria\ Postai\ Martins\n\ @version\ 15\ 06\ 2019\n
+comment1.params=
+comment1.target=Tabuleiro()
+comment1.text=\n\ Cria\ um\ novo\ tabuleiro\ com\ os\ buracos\ 1,\ 3,\ e\ 5\ preenchidos\ com\ bolinhas\ e\ os\ buracos\ 2\ e\ 4\ vazios.\n
+comment2.params=buraco
+comment2.target=int\ bolaBuracos(int)
+comment2.text=\n\ Checa\ se\ eh\ para\ incrementar,\ decrementar\ ou\ descartar\ a\ bola\ do\ jogador.\n\ @param\ buraco\ numero\ do\ buraco\ \n\ @return\ um\ numero\ inteiro\:\ 1\ se\ eh\ para\ incrementar\ o\ numero\ de\ bolas,\ -1\ se\ eh\ para\ decrementar,\ -2\ se\ o\ buraco\ for\ 6\ e\ a\ bola\ tiver\ que\ ser\ "descartada"\ e\ -999\ se\ o\ buraco\ nao\ existir.\n
+comment3.params=buraco
+comment3.target=boolean\ obtemBuraco(int)
+comment3.text=\n\ Metodo\ para\ obter\ se\ o\ buraco\ esta\ preenchido\ ou\ nao.\n\ @param\ buraco\ numero\ do\ buraco\n\ @return\ um\ valor\ booleano\:\ true\ se\ estiver\ preenchido,\ false\ se\ estiver\ vazio.\n
+numComments=4

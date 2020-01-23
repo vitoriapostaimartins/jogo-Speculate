@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dado
+comment1.params=
+comment1.target=Dado()
+comment1.text=\n\ Cria\ um\ novo\ dado\ com\ 6\ faces.\n
+comment2.params=nf
+comment2.target=Dado(int)
+comment2.text=\n\ Cria\ um\ novo\ dado\ com\ o\ numero\ de\ faces\ desejado.\n\ @param\ nf\ numero\ de\ faces\ desejado\n
+comment3.params=
+comment3.target=int\ rolar()
+comment3.text=\n\ Rola\ o\ dado\ \n\ @return\ um\ numero\ que\ corresponde\ a\ uma\ das\ faces\ do\ dado.\n
+numComments=4

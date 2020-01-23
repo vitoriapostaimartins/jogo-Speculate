@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\n\ Classe\ para\ objetos\ do\ tipo\ Jogador.\n\ \n\ @author\ Vitoria\ Postai\ Martins\n\ @version\ 15\ 06\ 2019\n
+comment1.params=
+comment1.target=Jogador()
+comment1.text=\n\ Cria\ um\ novo\ jogador\ com\ 15\ bolinhas.\n
+comment2.params=
+comment2.target=void\ adicionaBola()
+comment2.text=\n\ Adiciona\ uma\ bola\ ao\ numero\ de\ bolas\ que\ o\ jogador\ tem.\n
+comment3.params=
+comment3.target=void\ removeBola()
+comment3.text=\n\ Remove\ uma\ bola\ do\ numero\ de\ bolas\ que\ o\ jogador\ tem.\n
+comment4.params=
+comment4.target=int\ obtemBolas()
+comment4.text=\n\ Obtem\ o\ numero\ de\ bolas\ que\ o\ jogador\ tem.\n\ @return\ numero\ de\ bolas.\n
+numComments=5

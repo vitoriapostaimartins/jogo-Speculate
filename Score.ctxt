@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=
+comment1.target=Score()
+comment1.text=\n\ Cria\ um\ novo\ Score.\n
+comment2.params=jogador\ rodadas
+comment2.target=void\ salvaScore(java.lang.String,\ int)
+comment2.text=\n\ Metodo\ para\ salvar\ o\ score\ em\ um\ arquivo\ txt.\n\ @param\ jogador\ nome\ do\ jogador\ vencedor\ cuja\ vitoria\ se\ quer\ guardar\n\ @param\ rodadas\ numero\ de\ rodadas\ as\ quais\ o\ jogador\ ganhou\n
+numComments=3
